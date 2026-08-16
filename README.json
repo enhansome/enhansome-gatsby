@@ -258,7 +258,7 @@
             "last_commit": "2025-09-04T15:43:44Z",
             "owner": "graphql-python",
             "repo": "graphene",
-            "stars": 8233
+            "stars": 8232
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-08-12T21:08:40Z",
             "owner": "reactiflux",
             "repo": "reactiflux.com",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -325,7 +325,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-03T23:40:51Z",
+            "last_commit": "2026-08-15T17:27:47Z",
             "owner": "ethereumclassic",
             "repo": "ethereumclassic.github.io",
             "stars": 195
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T20:08:12Z",
+            "last_commit": "2026-08-16T00:03:49Z",
             "owner": "duyet",
             "repo": "pricetrack",
             "stars": 140
@@ -479,7 +479,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T16:31:55Z",
+            "last_commit": "2026-08-15T23:12:41Z",
             "owner": "f0rr0",
             "repo": "f0rr0.dev",
             "stars": 45
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:51:23.691Z",
+    "last_updated": "2026-08-16T05:54:15.809Z",
     "original_repository": "prayash/awesome-gatsby",
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
     "enhanced_repository": "enhansome/enhansome-gatsby",
