@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T00:03:49Z",
+            "last_commit": "2026-08-19T03:53:44Z",
             "owner": "duyet",
             "repo": "pricetrack",
             "stars": 140
@@ -647,7 +647,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T12:59:04Z",
+            "last_commit": "2026-08-18T20:49:55Z",
             "owner": "vojtechruz",
             "repo": "vojtechruzicka-blog",
             "stars": 13
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:55:07.237Z",
+    "last_updated": "2026-08-19T05:56:11.714Z",
     "original_repository": "prayash/awesome-gatsby",
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
     "enhanced_repository": "enhansome/enhansome-gatsby",
