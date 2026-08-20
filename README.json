@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-01T01:45:14Z",
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1879
+                "stars": 1878
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2025-09-04T15:43:44Z",
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8233
+                "stars": 8234
               }
             },
             {
@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 16627243,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T18:39:32Z",
+                "last_commit": "2026-08-19T22:07:37Z",
                 "owner": "FDA",
                 "repo": "open.fda.gov",
                 "stars": 177
@@ -666,7 +666,7 @@
                 "archived": false,
                 "id": 122234816,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T20:49:55Z",
+                "last_commit": "2026-08-19T21:56:20Z",
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
                 "stars": 13
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:55.979Z",
+    "last_updated": "2026-08-20T05:56:52.538Z",
     "original_repository": "prayash/awesome-gatsby",
     "original_repository_id": 97412789,
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
