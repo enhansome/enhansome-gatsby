@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-01T01:45:14Z",
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1878
+                "stars": 1877
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2025-09-04T15:43:44Z",
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8237
+                "stars": 8238
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2026-07-27T12:46:49Z",
                 "owner": "fabe",
                 "repo": "site",
-                "stars": 116
+                "stars": 117
               }
             },
             {
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:55:29.653Z",
+    "last_updated": "2026-08-24T06:03:28.422Z",
     "original_repository": "prayash/awesome-gatsby",
     "original_repository_id": 97412789,
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
