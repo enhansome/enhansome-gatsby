@@ -4,6 +4,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Official Gatsby Showcase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36040894,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T19:12:38Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -982,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:03:28.422Z",
+    "last_updated": "2026-08-24T14:14:02.753Z",
     "original_repository": "prayash/awesome-gatsby",
     "original_repository_id": 97412789,
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
