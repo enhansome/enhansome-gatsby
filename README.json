@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943
+            "stars": 55942
           }
         },
         {
@@ -351,7 +351,7 @@
                 "archived": false,
                 "id": 16627243,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:12:28Z",
+                "last_commit": "2026-08-25T20:40:08Z",
                 "owner": "FDA",
                 "repo": "open.fda.gov",
                 "stars": 177
@@ -501,7 +501,7 @@
                 "archived": false,
                 "id": 68964932,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T23:12:41Z",
+                "last_commit": "2026-08-25T07:50:05Z",
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
                 "stars": 45
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:12.184Z",
+    "last_updated": "2026-08-26T05:59:59.518Z",
     "original_repository": "prayash/awesome-gatsby",
     "original_repository_id": 97412789,
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
