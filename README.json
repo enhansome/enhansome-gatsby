@@ -12,7 +12,7 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T19:12:38Z",
+            "last_commit": "2026-08-27T10:47:01Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55942
@@ -336,7 +336,7 @@
                 "archived": false,
                 "id": 63402186,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T17:27:47Z",
+                "last_commit": "2026-08-26T21:34:23Z",
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 195
@@ -501,7 +501,7 @@
                 "archived": false,
                 "id": 68964932,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:50:05Z",
+                "last_commit": "2026-08-26T10:40:04Z",
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
                 "stars": 45
@@ -997,9 +997,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:59:59.518Z",
-    "original_repository": "prayash/awesome-gatsby",
-    "original_repository_id": 97412789,
+    "last_updated": "2026-08-27T11:39:20.099Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 97412789,
+      "language": null,
+      "last_commit": "2023-02-15T01:47:36Z",
+      "owner": "prayash",
+      "repo": "awesome-gatsby",
+      "stars": 1000
+    },
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
     "enhanced_repository": "enhansome/enhansome-gatsby",
     "enhanced_repository_description": null,
