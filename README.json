@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T10:47:01Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55942
+            "stars": 55941
           }
         },
         {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 181062037,
                 "language": "MDX",
-                "last_commit": "2026-08-13T16:50:02Z",
+                "last_commit": "2026-08-27T14:34:50Z",
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
                 "stars": 357
@@ -321,7 +321,7 @@
                 "archived": false,
                 "id": 73315177,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T21:08:40Z",
+                "last_commit": "2026-08-27T14:51:19Z",
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
                 "stars": 274
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:20.099Z",
+    "last_updated": "2026-08-27T16:38:55.879Z",
     "original_repository_info": {
       "archived": false,
       "id": 97412789,
