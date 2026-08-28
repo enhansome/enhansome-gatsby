@@ -12,11 +12,12 @@
             "archived": false,
             "id": 36040894,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:47:01Z",
+            "last_commit": "2026-08-28T03:41:15Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55941
-          }
+          },
+          "first_seen": "2026-08-28T17:37:15.295Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
                 "stars": 1877
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "apollographql",
                 "repo": "gatsby-theme-apollo",
                 "stars": 365
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 181062037,
                 "language": "MDX",
-                "last_commit": "2026-08-27T14:34:50Z",
+                "last_commit": "2026-08-27T21:15:53Z",
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "antvis",
                 "repo": "gatsby-theme-antv",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "christiandavid",
                 "repo": "gatsby-theme-byfolio",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "zerostaticthemes",
                 "repo": "gatsby-serif-theme",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "AllanPooley",
                 "repo": "gatsby-theme-legals-prismic",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "johno",
                 "repo": "gatsby-theme-documentation",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "jlengstorf",
                 "repo": "gatsby-theme-jason-blog",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "zgordon",
                 "repo": "tabor-gatsby-theme",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "shantanu-deshmukh",
                 "repo": "vhealth-gatsby",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "draftbox-co",
                 "repo": "gatsby-attila-theme-ghost",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "draftbox-co",
                 "repo": "gatsby-wordpress-theme-libre",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "draftbox-co",
                 "repo": "gatsby-wordpress-balsa-theme",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "draftbox-co",
                 "repo": "gatsby-ghost-balsa-theme",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             }
           ],
           "description": null,
@@ -265,7 +281,8 @@
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8238
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "KyleAMathews",
                 "repo": "react-headroom",
                 "stars": 1872
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "iamdustan",
                 "repo": "react-hardware",
                 "stars": 806
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "KyleAMathews",
                 "repo": "react-gravatar",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "FDA",
                 "repo": "open.fda.gov",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "duyet",
                 "repo": "pricetrack",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "KyleAMathews",
                 "repo": "blog",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "fabe",
                 "repo": "site",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "Syncano",
                 "repo": "website",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "michaelrambeau",
                 "repo": "risingstars2016",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "abhith",
                 "repo": "abhith.net",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "oliverbenns",
                 "repo": "oliverbenns.com",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "gregberge",
                 "repo": "gregberge.com",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "anvilabs",
                 "repo": "anvilabs.co",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -501,11 +533,12 @@
                 "archived": false,
                 "id": 68964932,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T10:40:04Z",
+                "last_commit": "2026-08-28T17:02:32Z",
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "divyanshu013",
                 "repo": "blog",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -535,7 +569,8 @@
                 "owner": "bottenderjs",
                 "repo": "bottenderjs.github.io",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -550,7 +585,8 @@
                 "owner": "hello-nyxo",
                 "repo": "nyxo-website",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -565,7 +601,8 @@
                 "owner": "kylegach",
                 "repo": "kylegach_com",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -580,7 +617,8 @@
                 "owner": "voellig-ohne",
                 "repo": "timobecker",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -595,7 +633,8 @@
                 "owner": "kristofferh",
                 "repo": "kristoffer",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -610,7 +649,8 @@
                 "owner": "SachaG",
                 "repo": "sachagreifdotcom",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -625,7 +665,8 @@
                 "owner": "campjs",
                 "repo": "campjs-vii",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -640,7 +681,8 @@
                 "owner": "coriolan-ui",
                 "repo": "coriolan-ui.github.io",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -655,7 +697,8 @@
                 "owner": "pamo",
                 "repo": "pamo.github.io",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -670,7 +713,8 @@
                 "owner": "rileyjshaw",
                 "repo": "crypto.christmas",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -685,7 +729,8 @@
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -700,7 +745,8 @@
                 "owner": "SpencerCDixon",
                 "repo": "blog",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -715,7 +761,8 @@
                 "owner": "storybook-eol",
                 "repo": "storybooks.github.io",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -730,7 +777,8 @@
                 "owner": "Slava",
                 "repo": "zbt-website",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -745,7 +793,8 @@
                 "owner": "MeganKeesee-zz",
                 "repo": "personal-site",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -760,7 +809,8 @@
                 "owner": "voellig-ohne",
                 "repo": "voellig-ohne-website",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -775,7 +825,8 @@
                 "owner": "iamdustan",
                 "repo": "iamdustan.github.io",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -790,7 +841,8 @@
                 "owner": "britt",
                 "repo": "britt.github.com",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -805,7 +857,8 @@
                 "owner": "MenaraSolutions",
                 "repo": "geographer-docs",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -820,7 +873,8 @@
                 "owner": "kzuraw",
                 "repo": "krzysztofzuraw.com",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -835,7 +889,8 @@
                 "owner": "realfresh",
                 "repo": "restaurantjourneys",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -850,7 +905,8 @@
                 "owner": "vikas5914",
                 "repo": "vikas5914.github.io",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -865,7 +921,8 @@
                 "owner": "danielres",
                 "repo": "blog",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -880,7 +937,8 @@
                 "owner": "davzoku",
                 "repo": "personal-website-v1",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -895,7 +953,8 @@
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -910,7 +969,8 @@
                 "owner": "DamianMullins",
                 "repo": "damianmullins.com",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -925,7 +985,8 @@
                 "owner": "anthonyhumphreys",
                 "repo": "react-hooks-blog",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -940,7 +1001,8 @@
                 "owner": "voellig-ohne",
                 "repo": "cf-website",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1017,8 @@
                 "owner": "bbq-agency",
                 "repo": "bbq-agency.github.io",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -970,7 +1033,8 @@
                 "owner": "michaeljdeeb",
                 "repo": "michaeljdeeb-gatsby-blog",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             },
             {
               "node_type": "item",
@@ -985,7 +1049,8 @@
                 "owner": "5minreact",
                 "repo": "5minreact.ru_legacy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
             }
           ],
           "description": null,
@@ -997,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:38:55.879Z",
+    "last_updated": "2026-08-28T17:37:15.295Z",
     "original_repository_info": {
       "archived": false,
       "id": 97412789,
@@ -1005,7 +1070,7 @@
       "last_commit": "2023-02-15T01:47:36Z",
       "owner": "prayash",
       "repo": "awesome-gatsby",
-      "stars": 1000
+      "stars": 999
     },
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
     "enhanced_repository": "enhansome/enhansome-gatsby",
