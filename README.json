@@ -15,11 +15,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T03:41:15Z",
+            "last_commit": "2026-08-29T09:36:02Z",
             "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:55.289Z",
+    "last_updated": "2026-08-29T11:44:58.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
