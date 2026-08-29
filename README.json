@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React-based framework with performance, scalability, and security built in.",
+            "homepage": "https://www.gatsbyjs.com",
             "id": 36040894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:41:15Z",
+            "open_issues": 437,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941
+            "stars": 55941,
+            "topics": [
+              "blog",
+              "compiler",
+              "gatsby",
+              "graphql",
+              "react",
+              "static-site-generator",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T17:37:15.295Z"
         },
@@ -28,12 +41,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.",
+                "homepage": "https://themes.lekoarts.de",
                 "id": 195290564,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-01T01:45:14Z",
+                "open_issues": 19,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1877
+                "stars": 1877,
+                "topics": [
+                  "gatsby",
+                  "gatsby-theme",
+                  "gatsby-themes",
+                  "gatsbyjs",
+                  "lekoarts",
+                  "lekoarts-oss",
+                  "theme-ui",
+                  "themes",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -44,12 +72,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💜 Themes that we use to build Gatsby sites at Apollo",
+                "homepage": null,
                 "id": 158454216,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-13T20:57:26Z",
+                "open_issues": 30,
                 "owner": "apollographql",
                 "repo": "gatsby-theme-apollo",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "apollo",
+                  "gatsby",
+                  "gatsby-theme"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -60,12 +97,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Carbon inspired Gatsby theme",
+                "homepage": "https://gatsby.carbondesignsystem.com/",
                 "id": 181062037,
                 "language": "MDX",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:15:53Z",
+                "open_issues": 67,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
-                "stars": 357
+                "stars": 357,
+                "topics": [
+                  "carbon",
+                  "gatsby",
+                  "gatsby-theme-carbon",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -76,12 +123,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚛️ Polished Gatsby theme for documentation site",
+                "homepage": "https://gatsby-starter-theme-antv.antv.vision/zh",
                 "id": 214370844,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-17T03:22:59Z",
+                "open_issues": 30,
                 "owner": "antvis",
                 "repo": "gatsby-theme-antv",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "antd",
+                  "antv",
+                  "antvis",
+                  "gatsby",
+                  "gatsby-starter",
+                  "gatsby-theme",
+                  "gatsbyjs",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -92,12 +153,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simplified way to create a portfolio using GatsbyJS",
+                "homepage": null,
                 "id": 228112399,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T15:05:04Z",
+                "open_issues": 12,
                 "owner": "christiandavid",
                 "repo": "gatsby-theme-byfolio",
-                "stars": 260
+                "stars": 260,
+                "topics": [
+                  "gatsbyjs",
+                  "portfolio",
+                  "pwa-apps",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -108,12 +179,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serif is a beautiful small business theme for Gatsby.",
+                "homepage": "https://gatsby-serif.netlify.com",
                 "id": 161435025,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2024-01-27T18:12:26Z",
+                "open_issues": 2,
                 "owner": "zerostaticthemes",
                 "repo": "gatsby-serif-theme",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "blog-theme",
+                  "bootstrap",
+                  "builtatlightspeed",
+                  "gatsby",
+                  "gatsby-starter",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -124,12 +207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super polished, responsive legal pages that you can plug onto your Gatsby project 🌻🔨⚖️",
+                "homepage": "https://gatsby-theme-legals.netlify.com/",
                 "id": 199229496,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T05:58:11Z",
+                "open_issues": 29,
                 "owner": "AllanPooley",
                 "repo": "gatsby-theme-legals-prismic",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -140,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalist Gatsby Theme for documentation sites built with MDX and Theme UI",
+                "homepage": "https://docs-theme.johno.com",
                 "id": 195704658,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-26T12:47:23Z",
+                "open_issues": 41,
                 "owner": "johno",
                 "repo": "gatsby-theme-documentation",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -156,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 168621091,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-07-01T04:47:01Z",
+                "open_issues": 22,
                 "owner": "jlengstorf",
                 "repo": "gatsby-theme-jason-blog",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -172,12 +270,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of the Tabor WordPress Theme over to Gatsby",
+                "homepage": null,
                 "id": 172543430,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-01-03T17:11:57Z",
+                "open_issues": 36,
                 "owner": "zgordon",
                 "repo": "tabor-gatsby-theme",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -188,12 +291,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Gatsby template for a healthcare startup. [Building something amazing? do reach out!]",
+                "homepage": "https://shantanu-deshmukh.github.io/vhealth-gatsby/",
                 "id": 288627908,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-27T06:56:36Z",
+                "open_issues": 0,
                 "owner": "shantanu-deshmukh",
                 "repo": "vhealth-gatsby",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -204,12 +312,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gatsby theme plugin for creating blogs from headless Ghost CMS.",
+                "homepage": "https://ghost-attila.draftbox.co/",
                 "id": 246553919,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T17:28:20Z",
+                "open_issues": 9,
                 "owner": "draftbox-co",
                 "repo": "gatsby-attila-theme-ghost",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "attila",
+                  "blogging",
+                  "draftbox",
+                  "gatsby",
+                  "gatsby-plugin",
+                  "gatsby-theme",
+                  "gatsbyjs",
+                  "ghost",
+                  "react",
+                  "static-site",
+                  "theme"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -220,12 +345,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gatsby theme plugin for creating blogs from headless WordPress CMS.",
+                "homepage": "https://wp-libre-preview.draftbox.co/",
                 "id": 246853724,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T05:07:45Z",
+                "open_issues": 3,
                 "owner": "draftbox-co",
                 "repo": "gatsby-wordpress-theme-libre",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "blogging",
+                  "gatsby",
+                  "gatsby-plugin",
+                  "gatsby-theme",
+                  "gatsby-wordpress",
+                  "gatsbyjs",
+                  "libre2",
+                  "react",
+                  "static-site",
+                  "theme",
+                  "wordpress"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -236,12 +378,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Feature rich Gatsby theme plugin for creating blogs from headless WordPress CMS.",
+                "homepage": "https://wp-balsa-preview.draftbox.co/",
                 "id": 261166024,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-04T03:59:45Z",
+                "open_issues": 10,
                 "owner": "draftbox-co",
                 "repo": "gatsby-wordpress-balsa-theme",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "draftbox",
+                  "gatsby",
+                  "gatsby-plugin",
+                  "gatsby-theme",
+                  "gatsbyjs",
+                  "react",
+                  "wordpress",
+                  "wordpress-blog"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -252,12 +408,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Feature rich Gatsby theme plugin for creating blogs from Ghost.",
+                "homepage": "https://ghost-balsa-preview.draftbox.co/",
                 "id": 261173539,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T05:55:18Z",
+                "open_issues": 10,
                 "owner": "draftbox-co",
                 "repo": "gatsby-ghost-balsa-theme",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "balsa-skin",
+                  "blogging",
+                  "draftbox",
+                  "gatsby-ghost",
+                  "gatsby-plugin",
+                  "gatsby-theme",
+                  "ghost",
+                  "ghost-cms",
+                  "react",
+                  "static-site"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             }
@@ -275,12 +447,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL framework for Python",
+                "homepage": "http://graphene-python.org/",
                 "id": 43056951,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
+                "open_issues": 113,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8238
+                "stars": 8238,
+                "topics": [
+                  "framework",
+                  "graphene",
+                  "graphql",
+                  "python",
+                  "relay"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -291,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hide your header until you need it",
+                "homepage": "https://kyleamathews.github.io/react-headroom",
                 "id": 31336818,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-06T20:18:19Z",
+                "open_issues": 53,
                 "owner": "KyleAMathews",
                 "repo": "react-headroom",
-                "stars": 1872
+                "stars": 1872,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -307,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React renderer for Hardware.",
+                "homepage": "http://iamdustan.com/react-hardware",
                 "id": 35565534,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-03T17:54:21Z",
+                "open_issues": 26,
                 "owner": "iamdustan",
                 "repo": "react-hardware",
-                "stars": 806
+                "stars": 806,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -323,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React component for rendering a gravatar profile image",
+                "homepage": "http://kyleamathews.github.io/react-gravatar/",
                 "id": 22651412,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-10T03:55:05Z",
+                "open_issues": 12,
                 "owner": "KyleAMathews",
                 "repo": "react-gravatar",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -339,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactiflux Website",
+                "homepage": "https://www.reactiflux.com/",
                 "id": 73315177,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:51:19Z",
+                "open_issues": 25,
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
-                "stars": 274
+                "stars": 274,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -355,12 +558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum Classic Website",
+                "homepage": "https://ethereumclassic.org",
                 "id": 63402186,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T21:34:23Z",
+                "open_issues": 80,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -371,12 +579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openFDA web site.",
+                "homepage": "http://open.fda.gov",
                 "id": 16627243,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T20:40:08Z",
+                "open_issues": 8,
                 "owner": "FDA",
                 "repo": "open.fda.gov",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -387,12 +600,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Price tracker monitors of products and alerts you when prices drop. Supported tiki.vn, shopee, lotte.vn, ... Built with firebase https://pricetrack.web.app",
+                "homepage": "https://tracker.duyet.net",
                 "id": 162599694,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T17:37:51Z",
+                "open_issues": 47,
                 "owner": "duyet",
                 "repo": "pricetrack",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "api",
+                  "crawler",
+                  "cronjob-scheduler",
+                  "firebase",
+                  "firebase-auth",
+                  "firebase-functions",
+                  "firebase-hosting",
+                  "firestore",
+                  "redash",
+                  "shopee",
+                  "shopee-api",
+                  "tiki",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -403,12 +635,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "my blog!",
+                "homepage": "http://bricolage.io",
                 "id": 18338161,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-20T20:13:45Z",
+                "open_issues": 10,
                 "owner": "KyleAMathews",
                 "repo": "blog",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "blog",
+                  "gatsby",
+                  "personal-website"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -419,12 +660,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏞 My name dot com.",
+                "homepage": "https://fabianschultz.com",
                 "id": 100172680,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2026-07-27T12:46:49Z",
+                "open_issues": 6,
                 "owner": "fabe",
                 "repo": "site",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "apollo",
+                  "graphql",
+                  "personal-website",
+                  "portfolio-site",
+                  "react",
+                  "tanstack-start"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -435,12 +688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syncano website",
+                "homepage": "https://www.syncano.io",
                 "id": 32872044,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-10-01T06:40:38Z",
+                "open_issues": 4,
                 "owner": "Syncano",
                 "repo": "website",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -451,12 +709,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete overview of the JavaScript landscape in 2016: trends about front-end and node.js frameworks, tooling... Available in English, Japanese and Chinese.",
+                "homepage": "https://risingstars2016.js.org/",
                 "id": 78309699,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-04-23T20:52:00Z",
+                "open_issues": 2,
                 "owner": "michaelrambeau",
                 "repo": "risingstars2016",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "chinese-simplified",
+                  "gatsby",
+                  "i18n",
+                  "japanese",
+                  "javascript-landscape",
+                  "react",
+                  "trends"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -467,12 +738,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal website and blog running on Gatsby. Contains a collection of developer stories, videos, snippets, and tools grouped by topics.",
+                "homepage": "https://www.abhith.net",
                 "id": 101899949,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2026-08-03T20:24:04Z",
+                "open_issues": 24,
                 "owner": "abhith",
                 "repo": "abhith.net",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "awesome-list",
+                  "blog",
+                  "bulma",
+                  "developer-stories",
+                  "gatsby",
+                  "giscus",
+                  "jamstack",
+                  "mdx",
+                  "portfolio",
+                  "react",
+                  "videos"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -483,12 +771,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal website",
+                "homepage": "https://oliverbenns.com",
                 "id": 61365809,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-03T07:08:38Z",
+                "open_issues": 0,
                 "owner": "oliverbenns",
                 "repo": "oliverbenns.com",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "golang",
+                  "portfolio",
+                  "static-site",
+                  "static-site-generator"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -499,12 +797,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal website of Greg Bergé.",
+                "homepage": "https://gregberge.com",
                 "id": 225660100,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2023-11-09T14:54:52Z",
+                "open_issues": 0,
                 "owner": "gregberge",
                 "repo": "gregberge.com",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "blog",
+                  "gatsby",
+                  "personal-website",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -515,12 +823,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Website for @anvilabs",
+                "homepage": "https://anvilabs.co",
                 "id": 71369693,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-04-21T13:02:35Z",
+                "open_issues": 0,
                 "owner": "anvilabs",
                 "repo": "anvilabs.co",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "gatsbyjs",
+                  "netlify",
+                  "react",
+                  "tachyons"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -531,12 +849,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":octocat: Source for for my site",
+                "homepage": "https://f0rr0.dev",
                 "id": 68964932,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:02:32Z",
+                "license": null,
+                "last_commit": "2026-08-28T23:22:21Z",
+                "open_issues": 4,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "blog",
+                  "mdx",
+                  "static-site"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -547,12 +874,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal blog",
+                "homepage": "https://divyanshu013.dev",
                 "id": 196733041,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-24T12:14:28Z",
+                "open_issues": 7,
                 "owner": "divyanshu013",
                 "repo": "blog",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "gatsby-blog",
+                  "gatsby-starter",
+                  "gatsby-theme",
+                  "hacktoberfest",
+                  "personal-blog"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -563,12 +901,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Bottender website",
+                "homepage": "https://bottender.js.org",
                 "id": 108975400,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-11T20:07:57Z",
+                "open_issues": 7,
                 "owner": "bottenderjs",
                 "repo": "bottenderjs.github.io",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "bottender"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -579,12 +924,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nyxo website, built with Gatsby, AWS Amplify, React and TypeScript",
+                "homepage": "https://nyxo.app",
                 "id": 283846984,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-05T17:44:14Z",
+                "open_issues": 13,
                 "owner": "hello-nyxo",
                 "repo": "nyxo-website",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "aws-amplify",
+                  "gatsby",
+                  "gatsbyjs",
+                  "hacktoberfest",
+                  "react",
+                  "sleep",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -595,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Personal website & portfolio.",
+                "homepage": "https://kylegach.com",
                 "id": 56284820,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-05T02:20:58Z",
+                "open_issues": 0,
                 "owner": "kylegach",
                 "repo": "kylegach_com",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -611,12 +974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website of Timo Becker",
+                "homepage": "https://timobecker.com",
                 "id": 60079691,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-02T21:23:15Z",
+                "open_issues": 18,
                 "owner": "voellig-ohne",
                 "repo": "timobecker",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -627,12 +995,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It's a website.",
+                "homepage": "https://k-create.com",
                 "id": 23772998,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-02T06:18:29Z",
+                "open_issues": 8,
                 "owner": "kristofferh",
                 "repo": "kristoffer",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "css",
+                  "gatsbyjs",
+                  "html",
+                  "personal-website",
+                  "portfolio"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -643,12 +1022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal site and homepage",
+                "homepage": "https://sachagreif.com",
                 "id": 77580853,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-04T21:50:21Z",
+                "open_issues": 28,
                 "owner": "SachaG",
                 "repo": "sachagreifdotcom",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -659,12 +1043,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 51567355,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-06-13T00:28:42Z",
+                "open_issues": 1,
                 "owner": "campjs",
                 "repo": "campjs-vii",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -675,12 +1064,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coriolan UI - sass mixins pack & Coriolan UI site on GatsbyJS",
+                "homepage": "https://coriolan-ui.github.io",
                 "id": 53947699,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-12-23T11:49:09Z",
+                "open_issues": 0,
                 "owner": "coriolan-ui",
                 "repo": "coriolan-ui.github.io",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "coriolan-ui"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -691,12 +1087,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blog and other things",
+                "homepage": "https://likescoffee.com",
                 "id": 16032770,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-08-17T01:48:57Z",
+                "open_issues": 1,
                 "owner": "pamo",
                 "repo": "pamo.github.io",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "blog",
+                  "gatsby",
+                  "markdown",
+                  "react",
+                  "static-site"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -707,12 +1114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔒🎄",
+                "homepage": "https://xmas.rileyjshaw.com",
                 "id": 73860442,
                 "language": "JavaScript",
+                "license": "CC0-1.0",
                 "last_commit": "2024-01-03T16:19:31Z",
+                "open_issues": 5,
                 "owner": "rileyjshaw",
                 "repo": "crypto.christmas",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -723,12 +1135,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for blog vojtechruzicka.com",
+                "homepage": null,
                 "id": 122234816,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T21:09:05Z",
+                "open_issues": 1,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "blog",
+                  "gatsby-blog",
+                  "giscus",
+                  "java",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -739,12 +1162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal Gatsby.js blog",
+                "homepage": "http://www.spencerdixon.com/",
                 "id": 73217310,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-06-13T12:51:04Z",
+                "open_issues": 9,
                 "owner": "SpencerCDixon",
                 "repo": "blog",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -755,12 +1183,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "REPO MOVED: Storybook documentation site",
+                "homepage": "https://storybook.js.org",
                 "id": 88341223,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-06-01T11:53:40Z",
+                "open_issues": 0,
                 "owner": "storybook-eol",
                 "repo": "storybooks.github.io",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -771,12 +1204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The new website for MIT ZBT",
+                "homepage": "http://zbt.mit.edu",
                 "id": 66120699,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-27T13:33:02Z",
+                "open_issues": 11,
                 "owner": "Slava",
                 "repo": "zbt-website",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -787,12 +1225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal site.",
+                "homepage": "https://megankeesee.com",
                 "id": 86788233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-04-25T17:18:45Z",
+                "open_issues": 0,
                 "owner": "MeganKeesee-zz",
                 "repo": "personal-site",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -803,12 +1246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website of Völlig Ohne",
+                "homepage": "http://völligohne.de",
                 "id": 58464281,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-05-11T15:11:02Z",
+                "open_issues": 0,
                 "owner": "voellig-ohne",
                 "repo": "voellig-ohne-website",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -819,12 +1267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://iamdustan.com",
                 "id": 7659269,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-04-14T15:54:11Z",
+                "open_issues": 0,
                 "owner": "iamdustan",
                 "repo": "iamdustan.github.io",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -835,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My personal site",
+                "homepage": "http://brittcrawford.com",
                 "id": 8911503,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-11T03:02:29Z",
+                "open_issues": 1,
                 "owner": "britt",
                 "repo": "britt.github.com",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -851,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Geographer documentation",
+                "homepage": null,
                 "id": 73274572,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-06-09T22:55:53Z",
+                "open_issues": 4,
                 "owner": "MenaraSolutions",
                 "repo": "geographer-docs",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -867,12 +1330,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": "https://krzysztofzuraw.com",
                 "id": 214606025,
                 "language": "XSLT",
+                "license": "MIT",
                 "last_commit": "2025-03-30T11:44:05Z",
+                "open_issues": 2,
                 "owner": "kzuraw",
                 "repo": "krzysztofzuraw.com",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "astro",
+                  "astro-blog",
+                  "blog",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -883,12 +1356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for Restaurant Journeys",
+                "homepage": "https://www.restaurantjourneys.com",
                 "id": 177750535,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2019-03-27T14:51:03Z",
+                "open_issues": 0,
                 "owner": "realfresh",
                 "repo": "restaurantjourneys",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -899,12 +1377,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My useless Blog ",
+                "homepage": "https://www.kapadiya.net/",
                 "id": 73421563,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-09-10T06:43:07Z",
+                "open_issues": 0,
                 "owner": "vikas5914",
                 "repo": "vikas5914.github.io",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "blog",
+                  "gatsby",
+                  "gatsbyjs",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -915,12 +1403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "personal blog & portfolio",
+                "homepage": "http://blog.pixarea.com",
                 "id": 80840102,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-02-05T15:05:25Z",
+                "open_issues": 1,
                 "owner": "danielres",
                 "repo": "blog",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -931,12 +1424,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👨🏻‍💻🏠 my digital home (2021 -  present)",
+                "homepage": "https://walterteng.com",
                 "id": 377209655,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2025-04-24T16:38:40Z",
+                "open_issues": 14,
                 "owner": "davzoku",
                 "repo": "personal-website-v1",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "digital-garden",
+                  "gatsby",
+                  "personal-website",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -947,12 +1451,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "blog of peter",
+                "homepage": "https://peterp.me",
                 "id": 266415869,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-05-15T16:57:39Z",
+                "open_issues": 5,
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "react",
+                  "react-native",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -963,12 +1476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Files for my personal website",
+                "homepage": "https://www.damianmullins.com",
                 "id": 16404055,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T17:58:20Z",
+                "open_issues": 0,
                 "owner": "DamianMullins",
                 "repo": "damianmullins.com",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -979,12 +1497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 183291093,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-11T20:21:57Z",
+                "open_issues": 4,
                 "owner": "anthonyhumphreys",
                 "repo": "react-hooks-blog",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -995,12 +1518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Website of fuchs+wald",
+                "homepage": "https://fuchsundwald.de",
                 "id": 62655805,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-06-10T00:47:38Z",
+                "open_issues": 2,
                 "owner": "voellig-ohne",
                 "repo": "cf-website",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -1011,12 +1539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BBQ Agency site on GatsbyJS",
+                "homepage": "https://bbq.agency",
                 "id": 56982955,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-03-28T23:51:07Z",
+                "open_issues": 0,
                 "owner": "bbq-agency",
                 "repo": "bbq-agency.github.io",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -1027,12 +1560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A blog built with Gatsby, a React static site generator.",
+                "homepage": "http://michaeljdeeb.com",
                 "id": 54305128,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-03-29T04:13:16Z",
+                "open_issues": 4,
                 "owner": "michaeljdeeb",
                 "repo": "michaeljdeeb-gatsby-blog",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -1043,12 +1581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Исходный код сайта 5minreact.ru основанный на статическом генераторе сайтов Gatsby",
+                "homepage": null,
                 "id": 74450969,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-03-15T09:53:25Z",
+                "open_issues": 0,
                 "owner": "5minreact",
                 "repo": "5minreact.ru_legacy",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             }
@@ -1062,15 +1605,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:37:15.295Z",
+    "last_updated": "2026-08-29T04:34:55.289Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
+      "homepage": "https://www.gatsbyjs.org/",
       "id": 97412789,
       "language": null,
+      "license": null,
       "last_commit": "2023-02-15T01:47:36Z",
+      "open_issues": 6,
       "owner": "prayash",
       "repo": "awesome-gatsby",
-      "stars": 999
+      "stars": 999,
+      "topics": [
+        "awesome-list",
+        "gatsby",
+        "gatsbyjs",
+        "react",
+        "static-site-generator"
+      ]
     },
     "original_repository_sha": "3fd78603418a4c2ed7e61cdbdc4af53d7053587c",
     "enhanced_repository": "enhansome/enhansome-gatsby",
