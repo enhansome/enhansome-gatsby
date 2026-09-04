@@ -73,7 +73,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 ### Inspiration
 
-* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,941 | 🐛 441 | 🌐 JavaScript | 📅 2026-09-03
+* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,940 | 🐛 442 | 🌐 JavaScript | 📅 2026-09-04
 * [Taking Gatsby for a spin](https://dev.to/ardennl/taking-gatsby-for-a-spin-4je)
 * [Why I created my blog with Gatsby and Contentful](https://www.gatsbyjs.org/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/)
 * [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
@@ -116,8 +116,8 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [React Gravatar](http://kyleamathews.github.io/react-gravatar/) ([source](https://github.com/KyleAMathews/react-gravatar/tree/master/www) ⭐ 277 | 🐛 12 | 🌐 JavaScript | 📅 2020-09-10)
 * [Reactiflux](https://www.reactiflux.com/) ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 274 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-27)
 * [ethereumclassic.org](http://ethereumclassic.org/) ([source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) ⭐ 193 | 🐛 80 | 🌐 JavaScript | 📅 2026-09-03)
-* [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 177 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-02)
-* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-29)
+* [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 177 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03)
+* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-03)
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog) ⭐ 128 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-20)
 * [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 117 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-27)
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-01)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
