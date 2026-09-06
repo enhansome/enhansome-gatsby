@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-04T03:44:46Z",
-            "open_issues": 442,
+            "open_issues": 443,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55935,
+            "stars": 55939,
             "topics": [
               "blog",
               "compiler",
@@ -40,14 +40,14 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.",
                 "homepage": "https://themes.lekoarts.de",
                 "id": 195290564,
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-01T23:43:34Z",
-                "open_issues": 18,
+                "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
                 "stars": 1879,
@@ -456,7 +456,7 @@
                 "open_issues": 113,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8239,
+                "stars": 8238,
                 "topics": [
                   "framework",
                   "graphene",
@@ -854,7 +854,7 @@
                 "id": 68964932,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-05T08:46:10Z",
+                "last_commit": "2026-09-06T08:07:51Z",
                 "open_issues": 3,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:13:35.396Z",
+    "last_updated": "2026-09-06T09:35:23.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
