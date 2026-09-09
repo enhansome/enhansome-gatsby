@@ -15,7 +15,7 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T09:16:10Z",
+            "last_commit": "2026-09-09T02:51:06Z",
             "open_issues": 443,
             "owner": "gatsbyjs",
             "repo": "gatsby",
@@ -102,8 +102,8 @@
                 "id": 181062037,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T01:39:16Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-09T08:41:33Z",
+                "open_issues": 69,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
                 "stars": 357,
@@ -504,7 +504,7 @@
                 "open_issues": 26,
                 "owner": "iamdustan",
                 "repo": "react-hardware",
-                "stars": 805,
+                "stars": 804,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -854,8 +854,8 @@
                 "id": 68964932,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-08T09:56:44Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-09T00:57:56Z",
+                "open_issues": 2,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
                 "stars": 45,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:57:45.473Z",
+    "last_updated": "2026-09-09T09:59:40.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
