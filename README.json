@@ -15,11 +15,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T01:45:13Z",
+            "last_commit": "2026-09-18T02:04:18Z",
             "open_issues": 450,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55938,
+            "stars": 55939,
             "topics": [
               "blog",
               "compiler",
@@ -456,7 +456,7 @@
                 "open_issues": 113,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8237,
+                "stars": 8238,
                 "topics": [
                   "framework",
                   "graphene",
@@ -564,7 +564,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T08:57:33Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 193,
@@ -854,7 +854,7 @@
                 "id": 68964932,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-16T18:46:02Z",
+                "last_commit": "2026-09-17T21:29:41Z",
                 "open_issues": 0,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
@@ -1140,7 +1140,7 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T22:05:08Z",
+                "last_commit": "2026-09-17T19:04:08Z",
                 "open_issues": 4,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T10:16:41.036Z",
+    "last_updated": "2026-09-18T09:58:36.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
