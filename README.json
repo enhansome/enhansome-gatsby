@@ -15,11 +15,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T02:04:18Z",
+            "last_commit": "2026-09-19T06:08:40Z",
             "open_issues": 450,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55938,
             "topics": [
               "blog",
               "compiler",
@@ -106,7 +106,7 @@
                 "open_issues": 68,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
-                "stars": 356,
+                "stars": 355,
                 "topics": [
                   "carbon",
                   "gatsby",
@@ -453,7 +453,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8238,
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T16:51:54Z",
+                "last_commit": "2026-09-18T21:07:58Z",
                 "open_issues": 48,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:58:36.337Z",
+    "last_updated": "2026-09-19T09:40:31.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
