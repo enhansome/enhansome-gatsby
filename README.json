@@ -19,7 +19,7 @@
             "open_issues": 450,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55940,
             "topics": [
               "blog",
               "compiler",
@@ -453,7 +453,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 114,
+                "open_issues": 113,
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8238,
@@ -584,7 +584,7 @@
                 "id": 16627243,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T16:11:02Z",
+                "last_commit": "2026-09-22T20:48:37Z",
                 "open_issues": 8,
                 "owner": "FDA",
                 "repo": "open.fda.gov",
@@ -743,7 +743,7 @@
                 "id": 101899949,
                 "language": "MDX",
                 "license": "MIT",
-                "last_commit": "2026-09-21T20:24:10Z",
+                "last_commit": "2026-09-22T17:46:22Z",
                 "open_issues": 10,
                 "owner": "abhith",
                 "repo": "abhith.net",
@@ -854,7 +854,7 @@
                 "id": 68964932,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-20T17:19:37Z",
+                "last_commit": "2026-09-23T06:04:17Z",
                 "open_issues": 0,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T10:12:43.249Z",
+    "last_updated": "2026-09-23T10:12:36.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
