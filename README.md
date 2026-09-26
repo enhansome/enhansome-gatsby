@@ -73,7 +73,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 ### Inspiration
 
-* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,943 | 🐛 449 | 🌐 JavaScript | 📅 2026-09-24
+* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,943 | 🐛 451 | 🌐 JavaScript | 📅 2026-09-25
 * [Taking Gatsby for a spin](https://dev.to/ardennl/taking-gatsby-for-a-spin-4je)
 * [Why I created my blog with Gatsby and Contentful](https://www.gatsbyjs.org/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/)
 * [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
@@ -110,23 +110,23 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 #### Sites built with Gatsby (source code included)
 
-* [graphene-python.org](http://graphene-python.org/) ([source](https://github.com/graphql-python/graphene/tree/master/docs) ⭐ 8,239 | 🐛 114 | 🌐 Python | 📅 2025-09-04)
+* [graphene-python.org](http://graphene-python.org/) ([source](https://github.com/graphql-python/graphene/tree/master/docs) ⭐ 8,238 | 🐛 114 | 🌐 Python | 📅 2025-09-04)
 * [React Headroom](https://kyleamathews.github.io/react-headroom/) ([source](https://github.com/KyleAMathews/react-headroom/tree/master/website) ⭐ 1,872 | 🐛 53 | 🌐 JavaScript | 📅 2022-12-06)
 * [React Hardware](http://iamdustan.com/react-hardware/) ([source](https://github.com/iamdustan/react-hardware/tree/master/docs) ⭐ 804 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03)
 * [React Gravatar](http://kyleamathews.github.io/react-gravatar/) ([source](https://github.com/KyleAMathews/react-gravatar/tree/master/www) ⭐ 277 | 🐛 12 | 🌐 JavaScript | 📅 2020-09-10)
 * [Reactiflux](https://www.reactiflux.com/) ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-10)
-* [ethereumclassic.org](http://ethereumclassic.org/) ([source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) ⭐ 193 | 🐛 73 | 🌐 JavaScript | 📅 2026-09-08)
+* [ethereumclassic.org](http://ethereumclassic.org/) ([source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) ⭐ 193 | 🐛 74 | 🌐 JavaScript | 📅 2026-09-26)
 * [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 177 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-25)
 * [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 48 | 🌐 JavaScript | 📅 2026-09-24)
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog) ⭐ 128 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-20)
 * [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 117 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-20)
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-01)
 * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/) ([source](https://github.com/michaelrambeau/risingstars2016) ⭐ 74 | 🐛 2 | 🌐 HTML | 📅 2017-04-23)
-* [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net) ⭐ 64 | 🐛 10 | 🌐 MDX | 📅 2026-09-24)
+* [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net) ⭐ 64 | 🐛 10 | 🌐 MDX | 📅 2026-09-25)
 * [oliverbenns.com](http://oliverbenns.com?utm_source=github.com) ([source](https://github.com/oliverbenns/oliverbenns.com) ⭐ 51 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03)
 * [gregberge.com](https://gregberge.com) ([source](https://github.com/gregberge/gregberge.com) ⭐ 47 | 🐛 0 | 🌐 MDX | 📅 2023-11-09)
 * [anvilabs.co](https://anvilabs.co/?utm_source=github.com) ([source](https://github.com/anvilabs/anvilabs.co) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-21)
-* [Yuppies](https://yuppi.es) ([source](https://github.com/f0rr0/f0rr0.github.io) ⭐ 45 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23)
+* [Yuppies](https://yuppi.es) ([source](https://github.com/f0rr0/f0rr0.github.io) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-26)
 * [Divyanshu Maithani](https://divyanshu013.dev) ([source](https://github.com/divyanshu013/blog) ⭐ 41 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-24)
 * [Bottenderjs](https://bottender.js.org/) ([source](https://github.com/bottenderjs/bottenderjs.github.io) ⭐ 39 | 🐛 7 | 🌐 JavaScript | 📅 2023-01-11)
 * [Nyxo](https://nyxo.app) ([source](https://github.com/hello-nyxo/nyxo-website) ⭐ 34 | 🐛 13 | 🌐 TypeScript | 📅 2026-06-05)
@@ -145,7 +145,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Megan Keesee](https://megankeesee.com) ([source](https://github.com/MeganKeesee/personal-site) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-25)
 * [Völlig Ohne](http://volligohne.com/) ([source](https://github.com/voellig-ohne/voellig-ohne-website) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-11)
 * [iamdustan.com](http://iamdustan.com/) ([source](https://github.com/iamdustan/iamdustan.github.io) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2024-04-14)
-* [brittcrawford.com](http://brittcrawford.com) ([source](https://github.com/britt/britt.github.com/tree/gatsby) ⭐ 5 | 🐛 10 | 🌐 HTML | 📅 2026-09-07)
+* [brittcrawford.com](http://brittcrawford.com) ([source](https://github.com/britt/britt.github.com/tree/gatsby) ⭐ 5 | 🐛 10 | 🌐 HTML | 📅 2026-09-25)
 * [Geographer](https://geographer.su) ([source](https://github.com/MenaraSolutions/geographer-docs) ⭐ 5 | 🐛 4 | 🌐 CSS | 📅 2023-06-09)
 * [krzysztofzuraw.com](https://krzysztofzuraw.com) ([source](https://github.com/krzysztofzuraw/blog) ⚠️ Archived)
 * [Resturant Journeys](https://www.restaurantjourneys.com) ([source](https://github.com/realfresh/restaurantjourneys) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2019-03-27)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
