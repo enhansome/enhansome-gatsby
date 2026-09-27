@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55943,
+            "stars": 55944,
             "topics": [
               "blog",
               "compiler",
@@ -742,8 +742,8 @@
                 "homepage": "https://www.abhith.net",
                 "id": 101899949,
                 "language": "MDX",
-                "license": "MIT",
-                "last_commit": "2026-09-25T18:36:21Z",
+                "license": null,
+                "last_commit": "2026-09-26T19:47:10Z",
                 "open_issues": 10,
                 "owner": "abhith",
                 "repo": "abhith.net",
@@ -854,8 +854,8 @@
                 "id": 68964932,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-26T09:44:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-27T10:09:27Z",
+                "open_issues": 0,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
                 "stars": 45,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T10:04:36.513Z",
+    "last_updated": "2026-09-27T10:40:06.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
