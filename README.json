@@ -19,7 +19,7 @@
             "open_issues": 451,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55941,
+            "stars": 55942,
             "topics": [
               "blog",
               "compiler",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:46:09.700Z",
+    "last_updated": "2026-10-03T10:32:11.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
