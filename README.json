@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Official Gatsby Showcase",
-          "description": null,
+          "description": "gatsbyjs/gatsby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -37,7 +37,7 @@
             {
               "node_type": "item",
               "title": "Themes by LekoArts",
-              "description": null,
+              "description": "LekoArts/gatsby-themes",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -68,7 +68,7 @@
             {
               "node_type": "item",
               "title": "Apollo",
-              "description": null,
+              "description": "apollographql/gatsby-theme-apollo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -93,7 +93,7 @@
             {
               "node_type": "item",
               "title": "Carbon",
-              "description": null,
+              "description": "carbon-design-system/gatsby-theme-carbon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "AntV",
-              "description": null,
+              "description": "antvis/gatsby-theme-antv",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "Byfolio",
-              "description": null,
+              "description": "christiandavid/gatsby-theme-byfolio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
             {
               "node_type": "item",
               "title": "Serif",
-              "description": null,
+              "description": "zerostaticthemes/gatsby-serif-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -203,7 +203,7 @@
             {
               "node_type": "item",
               "title": "Legal Prismic",
-              "description": null,
+              "description": "AllanPooley/gatsby-theme-legals-prismic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,7 +224,7 @@
             {
               "node_type": "item",
               "title": "Documentation",
-              "description": null,
+              "description": "johno/gatsby-theme-documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -245,7 +245,7 @@
             {
               "node_type": "item",
               "title": "Jason's Blog",
-              "description": null,
+              "description": "jlengstorf/gatsby-theme-jason-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -266,7 +266,7 @@
             {
               "node_type": "item",
               "title": "Tabor",
-              "description": null,
+              "description": "zgordon/tabor-gatsby-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -287,7 +287,7 @@
             {
               "node_type": "item",
               "title": "vHealth: Gatsby template for a healthcare startup.",
-              "description": null,
+              "description": "shantanu-deshmukh/vhealth-gatsby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -308,7 +308,7 @@
             {
               "node_type": "item",
               "title": "Ghost Attila Theme",
-              "description": null,
+              "description": "draftbox-co/gatsby-attila-theme-ghost",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -341,7 +341,7 @@
             {
               "node_type": "item",
               "title": "WordPress Libre Theme",
-              "description": null,
+              "description": "draftbox-co/gatsby-wordpress-theme-libre",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -374,7 +374,7 @@
             {
               "node_type": "item",
               "title": "WordPress Balsa Theme",
-              "description": null,
+              "description": "draftbox-co/gatsby-wordpress-balsa-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Ghost Balsa Theme",
-              "description": null,
+              "description": "draftbox-co/gatsby-ghost-balsa-theme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -443,7 +443,7 @@
             {
               "node_type": "item",
               "title": "graphene-python.org",
-              "description": "(source)",
+              "description": "graphql-python/graphene",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
             {
               "node_type": "item",
               "title": "React Headroom",
-              "description": "(source)",
+              "description": "KyleAMathews/react-headroom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -491,7 +491,7 @@
             {
               "node_type": "item",
               "title": "React Hardware",
-              "description": "(source)",
+              "description": "iamdustan/react-hardware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "React Gravatar",
-              "description": "(source)",
+              "description": "KyleAMathews/react-gravatar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -533,7 +533,7 @@
             {
               "node_type": "item",
               "title": "Reactiflux",
-              "description": "(source)",
+              "description": "reactiflux/reactiflux.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -542,8 +542,8 @@
                 "id": 73315177,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T21:59:50Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-02T16:49:06Z",
+                "open_issues": 26,
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
                 "stars": 275,
@@ -554,7 +554,7 @@
             {
               "node_type": "item",
               "title": "ethereumclassic.org",
-              "description": "(source)",
+              "description": "ethereumclassic/ethereumclassic.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -575,7 +575,7 @@
             {
               "node_type": "item",
               "title": "openFDA",
-              "description": "(source)",
+              "description": "FDA/open.fda.gov",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -596,7 +596,7 @@
             {
               "node_type": "item",
               "title": "pricetrack",
-              "description": "(source)",
+              "description": "duyet/pricetrack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T04:48:55Z",
+                "last_commit": "2026-10-02T22:24:37Z",
                 "open_issues": 49,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -631,7 +631,7 @@
             {
               "node_type": "item",
               "title": "bricolage.io",
-              "description": "(source)",
+              "description": "KyleAMathews/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -656,7 +656,7 @@
             {
               "node_type": "item",
               "title": "Fabian Schultz",
-              "description": "(source)",
+              "description": "fabe/site",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -665,8 +665,8 @@
                 "id": 100172680,
                 "language": "TypeScript",
                 "license": "ISC",
-                "last_commit": "2026-09-30T15:07:11Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-02T12:21:32Z",
+                "open_issues": 6,
                 "owner": "fabe",
                 "repo": "site",
                 "stars": 117,
@@ -684,7 +684,7 @@
             {
               "node_type": "item",
               "title": "syncano.io",
-              "description": "(source)",
+              "description": "Syncano/website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -705,7 +705,7 @@
             {
               "node_type": "item",
               "title": "2016 JavaScript Rising Stars",
-              "description": "(source)",
+              "description": "michaelrambeau/risingstars2016",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +734,7 @@
             {
               "node_type": "item",
               "title": "abhith.net",
-              "description": "(source)",
+              "description": "abhith/abhith.net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,8 +743,8 @@
                 "id": 101899949,
                 "language": "MDX",
                 "license": null,
-                "last_commit": "2026-10-01T18:25:56Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-02T17:52:37Z",
+                "open_issues": 5,
                 "owner": "abhith",
                 "repo": "abhith.net",
                 "stars": 64,
@@ -767,7 +767,7 @@
             {
               "node_type": "item",
               "title": "oliverbenns.com",
-              "description": "(source)",
+              "description": "oliverbenns/oliverbenns.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -793,7 +793,7 @@
             {
               "node_type": "item",
               "title": "gregberge.com",
-              "description": "(source)",
+              "description": "gregberge/gregberge.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -819,7 +819,7 @@
             {
               "node_type": "item",
               "title": "anvilabs.co",
-              "description": "(source)",
+              "description": "anvilabs/anvilabs.co",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -845,7 +845,7 @@
             {
               "node_type": "item",
               "title": "Yuppies",
-              "description": "(source)",
+              "description": "f0rr0/f0rr0.dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -870,7 +870,7 @@
             {
               "node_type": "item",
               "title": "Divyanshu Maithani",
-              "description": "(source)",
+              "description": "divyanshu013/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -897,7 +897,7 @@
             {
               "node_type": "item",
               "title": "Bottenderjs",
-              "description": "(source)",
+              "description": "bottenderjs/bottenderjs.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -920,7 +920,7 @@
             {
               "node_type": "item",
               "title": "Nyxo",
-              "description": "(source)",
+              "description": "hello-nyxo/nyxo-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -949,7 +949,7 @@
             {
               "node_type": "item",
               "title": "kylegach.com",
-              "description": "(source)",
+              "description": "kylegach/kylegach_com",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -970,7 +970,7 @@
             {
               "node_type": "item",
               "title": "Timo Becker",
-              "description": "(source)",
+              "description": "voellig-ohne/timobecker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -991,7 +991,7 @@
             {
               "node_type": "item",
               "title": "k-create.com",
-              "description": "(source)",
+              "description": "kristofferh/kristoffer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "Sacha Greif",
-              "description": "(source)",
+              "description": "SachaG/sachagreifdotcom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1039,7 +1039,7 @@
             {
               "node_type": "item",
               "title": "vii.campjs.com",
-              "description": "(source)",
+              "description": "campjs/campjs-vii",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
             {
               "node_type": "item",
               "title": "Coriolan UI - sass mixins pack",
-              "description": "(source)",
+              "description": "coriolan-ui/coriolan-ui.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1083,7 +1083,7 @@
             {
               "node_type": "item",
               "title": "likescoffee.com",
-              "description": "(source)",
+              "description": "pamo/pamo.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1110,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "Crypto Christmas",
-              "description": "(source)",
+              "description": "rileyjshaw/crypto.christmas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1131,7 +1131,7 @@
             {
               "node_type": "item",
               "title": "Vojtech Ruzicka's Programming Blog",
-              "description": "(source)",
+              "description": "vojtechruz/vojtechruzicka-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1158,7 +1158,7 @@
             {
               "node_type": "item",
               "title": "Spencer Dixon's Blog",
-              "description": "(source)",
+              "description": "SpencerCDixon/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1179,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "storybooks.js.org",
-              "description": "(source)",
+              "description": "storybook-eol/storybooks.github.io",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1200,7 +1200,7 @@
             {
               "node_type": "item",
               "title": "ZBT MIT Website",
-              "description": "(source)",
+              "description": "Slava/zbt-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1221,7 +1221,7 @@
             {
               "node_type": "item",
               "title": "Megan Keesee",
-              "description": "(source)",
+              "description": "MeganKeesee-zz/personal-site",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1242,7 +1242,7 @@
             {
               "node_type": "item",
               "title": "Völlig Ohne",
-              "description": "(source)",
+              "description": "voellig-ohne/voellig-ohne-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1263,7 +1263,7 @@
             {
               "node_type": "item",
               "title": "iamdustan.com",
-              "description": "(source)",
+              "description": "iamdustan/iamdustan.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1284,7 +1284,7 @@
             {
               "node_type": "item",
               "title": "brittcrawford.com",
-              "description": "(source)",
+              "description": "britt/britt.github.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1305,7 +1305,7 @@
             {
               "node_type": "item",
               "title": "Geographer",
-              "description": "(source)",
+              "description": "MenaraSolutions/geographer-docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1326,7 +1326,7 @@
             {
               "node_type": "item",
               "title": "krzysztofzuraw.com",
-              "description": "(source)",
+              "description": "kzuraw/krzysztofzuraw.com",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1352,7 +1352,7 @@
             {
               "node_type": "item",
               "title": "Resturant Journeys",
-              "description": "(source)",
+              "description": "realfresh/restaurantjourneys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,7 +1373,7 @@
             {
               "node_type": "item",
               "title": "Kapadiya.net",
-              "description": "(source)",
+              "description": "vikas5914/vikas5914.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1399,7 +1399,7 @@
             {
               "node_type": "item",
               "title": "Daniel Reszka blog, code & gallery",
-              "description": "(source)",
+              "description": "danielres/blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1420,7 +1420,7 @@
             {
               "node_type": "item",
               "title": "Walter Teng",
-              "description": "(source)",
+              "description": "davzoku/personal-website-v1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1447,7 +1447,7 @@
             {
               "node_type": "item",
               "title": "peterp.me",
-              "description": "(source)",
+              "description": "peterpme/peterpme.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,7 +1472,7 @@
             {
               "node_type": "item",
               "title": "damianmullins.com",
-              "description": "(source)",
+              "description": "DamianMullins/damianmullins.com",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,7 +1493,7 @@
             {
               "node_type": "item",
               "title": "reacthooks.dev",
-              "description": "(source)",
+              "description": "anthonyhumphreys/react-hooks-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1514,7 +1514,7 @@
             {
               "node_type": "item",
               "title": "fuchs+wald",
-              "description": "(source)",
+              "description": "voellig-ohne/cf-website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1535,7 +1535,7 @@
             {
               "node_type": "item",
               "title": "BBQ Agency",
-              "description": "(source)",
+              "description": "bbq-agency/bbq-agency.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1556,7 +1556,7 @@
             {
               "node_type": "item",
               "title": "michaeljdeeb.com",
-              "description": "(source)",
+              "description": "michaeljdeeb/michaeljdeeb-gatsby-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1577,7 +1577,7 @@
             {
               "node_type": "item",
               "title": "5 minutes of React podcast - in Russian",
-              "description": "(source)",
+              "description": "5minreact/5minreact.ru_legacy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:14:40.658Z",
+    "last_updated": "2026-10-03T04:46:09.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",

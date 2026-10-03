@@ -114,15 +114,15 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [React Headroom](https://kyleamathews.github.io/react-headroom/) ([source](https://github.com/KyleAMathews/react-headroom/tree/master/website) ⭐ 1,872 | 🐛 53 | 🌐 JavaScript | 📅 2022-12-06)
 * [React Hardware](http://iamdustan.com/react-hardware/) ([source](https://github.com/iamdustan/react-hardware/tree/master/docs) ⭐ 804 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-03)
 * [React Gravatar](http://kyleamathews.github.io/react-gravatar/) ([source](https://github.com/KyleAMathews/react-gravatar/tree/master/www) ⭐ 277 | 🐛 12 | 🌐 JavaScript | 📅 2020-09-10)
-* [Reactiflux](https://www.reactiflux.com/) ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-10)
+* [Reactiflux](https://www.reactiflux.com/) ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-02)
 * [ethereumclassic.org](http://ethereumclassic.org/) ([source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) ⭐ 193 | 🐛 73 | 🌐 JavaScript | 📅 2026-09-28)
 * [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 177 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-01)
-* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-01)
+* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-02)
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog) ⭐ 128 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-20)
-* [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 117 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-30)
+* [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 117 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-02)
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-01)
 * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/) ([source](https://github.com/michaelrambeau/risingstars2016) ⭐ 74 | 🐛 2 | 🌐 HTML | 📅 2017-04-23)
-* [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net) ⭐ 64 | 🐛 6 | 🌐 MDX | 📅 2026-10-01)
+* [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net) ⭐ 64 | 🐛 5 | 🌐 MDX | 📅 2026-10-02)
 * [oliverbenns.com](http://oliverbenns.com?utm_source=github.com) ([source](https://github.com/oliverbenns/oliverbenns.com) ⭐ 51 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01)
 * [gregberge.com](https://gregberge.com) ([source](https://github.com/gregberge/gregberge.com) ⭐ 47 | 🐛 0 | 🌐 MDX | 📅 2023-11-09)
 * [anvilabs.co](https://anvilabs.co/?utm_source=github.com) ([source](https://github.com/anvilabs/anvilabs.co) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-21)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
