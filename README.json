@@ -15,11 +15,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:43:05Z",
-            "open_issues": 451,
+            "last_commit": "2026-10-03T13:56:55Z",
+            "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55942,
+            "stars": 55943,
             "topics": [
               "blog",
               "compiler",
@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1878,
+                "stars": 1877,
                 "topics": [
                   "gatsby",
                   "gatsby-theme",
@@ -542,8 +542,8 @@
                 "id": 73315177,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:49:06Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-03T16:29:00Z",
+                "open_issues": 25,
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
                 "stars": 275,
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:24:37Z",
+                "last_commit": "2026-10-04T09:22:04Z",
                 "open_issues": 49,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:32:11.164Z",
+    "last_updated": "2026-10-04T11:13:03.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
