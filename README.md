@@ -73,7 +73,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 ### Inspiration
 
-* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,942 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05
+* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,938 | 🐛 453 | 🌐 JavaScript | 📅 2026-10-05
 * [Taking Gatsby for a spin](https://dev.to/ardennl/taking-gatsby-for-a-spin-4je)
 * [Why I created my blog with Gatsby and Contentful](https://www.gatsbyjs.org/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/)
 * [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
@@ -85,7 +85,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 * [Themes by LekoArts](https://github.com/LekoArts/gatsby-themes) ⚠️ Archived
 * [Apollo](https://github.com/apollographql/gatsby-theme-apollo) ⚠️ Archived
-* [Carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) ⭐ 356 | 🐛 62 | 🌐 MDX | 📅 2026-10-07
+* [Carbon](https://github.com/carbon-design-system/gatsby-theme-carbon) ⭐ 356 | 🐛 63 | 🌐 MDX | 📅 2026-10-09
 * [AntV](https://github.com/antvis/gatsby-theme-antv) ⚠️ Archived
 * [Byfolio](https://github.com/christiandavid/gatsby-theme-byfolio) ⭐ 260 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-04
 * [Serif](https://github.com/JugglerX/gatsby-serif-theme) ⭐ 196 | 🐛 2 | 🌐 SCSS | 📅 2024-01-27
@@ -116,7 +116,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [React Gravatar](http://kyleamathews.github.io/react-gravatar/) ([source](https://github.com/KyleAMathews/react-gravatar/tree/master/www) ⭐ 277 | 🐛 12 | 🌐 JavaScript | 📅 2020-09-10)
 * [Reactiflux](https://www.reactiflux.com/) ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 275 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-03)
 * [ethereumclassic.org](http://ethereumclassic.org/) ([source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) ⭐ 193 | 🐛 73 | 🌐 JavaScript | 📅 2026-09-28)
-* [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 178 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-05)
+* [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 178 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-08)
 * [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 139 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-05)
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog) ⭐ 128 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-20)
 * [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 117 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-02)
@@ -138,7 +138,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Coriolan UI - sass mixins pack](https://coriolan-ui.github.io/) ([source](https://github.com/coriolan-ui/coriolan-ui.github.io) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2018-12-23)
 * [likescoffee.com](https://likescoffee.com/) ([source](https://github.com/pamo/pamo.github.io/tree/development) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2025-08-17)
 * [Crypto Christmas](https://crypto.christmas/) ([source](https://github.com/rileyjshaw/crypto.christmas) ⭐ 13 | 🐛 5 | 🌐 JavaScript | 📅 2024-01-03)
-* [Vojtech Ruzicka's Programming Blog](https://www.vojtechruzicka.com/) ([source](https://github.com/vojtechruz/vojtechruzicka-blog) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-06)
+* [Vojtech Ruzicka's Programming Blog](https://www.vojtechruzicka.com/) ([source](https://github.com/vojtechruz/vojtechruzicka-blog) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-09)
 * [Spencer Dixon's Blog](https://www.spencerdixon.com/) ([source](https://github.com/SpencerCDixon/blog) ⭐ 11 | 🐛 9 | 🌐 JavaScript | 📅 2018-06-13)
 * [storybooks.js.org](https://storybooks.js.org) ([source](https://github.com/storybooks/storybooks.github.io/) ⚠️ Archived)
 * [ZBT MIT Website](http://zbt.mit.edu) ([source](https://github.com/Slava/zbt-website) ⭐ 9 | 🐛 11 | 🌐 JavaScript | 📅 2023-10-27)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
