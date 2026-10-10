@@ -19,7 +19,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55938,
+            "stars": 55939,
             "topics": [
               "blog",
               "compiler",
@@ -102,8 +102,8 @@
                 "id": 181062037,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T11:55:52Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-09T12:35:11Z",
+                "open_issues": 61,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
                 "stars": 356,
@@ -456,7 +456,7 @@
                 "open_issues": 115,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8238,
+                "stars": 8237,
                 "topics": [
                   "framework",
                   "graphene",
@@ -483,7 +483,7 @@
                 "open_issues": 53,
                 "owner": "KyleAMathews",
                 "repo": "react-headroom",
-                "stars": 1872,
+                "stars": 1871,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -564,7 +564,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-28T07:13:21Z",
-                "open_issues": 73,
+                "open_issues": 74,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 193,
@@ -584,7 +584,7 @@
                 "id": 16627243,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T14:06:39Z",
+                "last_commit": "2026-10-09T15:41:33Z",
                 "open_issues": 8,
                 "owner": "FDA",
                 "repo": "open.fda.gov",
@@ -1140,7 +1140,7 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T08:16:46Z",
+                "last_commit": "2026-10-09T22:47:35Z",
                 "open_issues": 9,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T12:01:34.983Z",
+    "last_updated": "2026-10-10T11:18:20.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
