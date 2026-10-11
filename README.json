@@ -19,7 +19,7 @@
             "open_issues": 453,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55939,
+            "stars": 55937,
             "topics": [
               "blog",
               "compiler",
@@ -453,7 +453,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 115,
+                "open_issues": 114,
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8237,
@@ -546,7 +546,7 @@
                 "open_issues": 25,
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -609,7 +609,7 @@
                 "open_issues": 49,
                 "owner": "duyet",
                 "repo": "pricetrack",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "api",
                   "crawler",
@@ -1140,7 +1140,7 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T22:47:35Z",
+                "last_commit": "2026-10-10T23:14:00Z",
                 "open_issues": 9,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:18:20.126Z",
+    "last_updated": "2026-10-11T11:31:35.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
