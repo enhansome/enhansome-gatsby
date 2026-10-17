@@ -73,7 +73,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 ### Inspiration
 
-* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,937 | 🐛 454 | 🌐 JavaScript | 📅 2026-10-15
+* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,939 | 🐛 456 | 🌐 JavaScript | 📅 2026-10-15
 * [Taking Gatsby for a spin](https://dev.to/ardennl/taking-gatsby-for-a-spin-4je)
 * [Why I created my blog with Gatsby and Contentful](https://www.gatsbyjs.org/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/)
 * [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
@@ -117,7 +117,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Reactiflux](https://www.reactiflux.com/) ([source](https://github.com/reactiflux/reactiflux.com) ⭐ 276 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-03)
 * [ethereumclassic.org](http://ethereumclassic.org/) ([source](https://github.com/ethereumclassic/ethereumclassic.github.io/tree/source) ⭐ 193 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-15)
 * [openFDA](https://open.fda.gov/) ([source](https://github.com/FDA/open.fda.gov) ⭐ 178 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-13)
-* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-13)
+* [pricetrack](https://tracker.duyet.net) ([source](https://github.com/duyetdev/pricetrack) ⭐ 140 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-16)
 * [bricolage.io](https://bricolage.io/?utm_source=github.com) ([source](https://github.com/KyleAMathews/blog) ⭐ 128 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-20)
 * [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 116 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-15)
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-01)
@@ -152,7 +152,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Kapadiya.net](https://www.kapadiya.net/?utm_source=github.com) ([source](https://github.com/vikas5914/vikas5914.github.io) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2019-09-10)
 * [Daniel Reszka blog, code & gallery](http://blog.pixarea.com) ([source](https://github.com/danielres/blog) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2019-02-05)
 * [Walter Teng](https://walterteng.com/) ([source](https://github.com/davzoku/personal-website-v1) ⭐ 4 | 🐛 14 | 🌐 MDX | 📅 2025-04-24)
-* [peterp.me](https://www.peterp.me) ([source](https://github.com/peterpme/peterpme.github.io) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15)
+* [peterp.me](https://www.peterp.me) ([source](https://github.com/peterpme/peterpme.github.io) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-16)
 * [damianmullins.com](http://www.damianmullins.com) ([source](https://github.com/DamianMullins/damianmullins.github.io) ⭐ 3 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-19)
 * [reacthooks.dev](https://reacthooks.dev) ([source](https://github.com/lexioplatform/react-hooks-blog) ⭐ 3 | 🐛 4 | 🌐 JavaScript | 📅 2023-01-11)
 * [fuchs+wald](https://fuchsundwald.de) ([source](https://github.com/voellig-ohne/cf-website) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-10)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-15T21:35:25Z",
-            "open_issues": 454,
+            "open_issues": 456,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55937,
+            "stars": 55939,
             "topics": [
               "blog",
               "compiler",
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T15:16:43Z",
+                "last_commit": "2026-10-16T16:00:41Z",
                 "open_issues": 49,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -1456,7 +1456,7 @@
                 "id": 266415869,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-15T22:19:59Z",
+                "last_commit": "2026-10-16T19:06:49Z",
                 "open_issues": 0,
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T10:02:21.474Z",
+    "last_updated": "2026-10-17T09:35:31.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
