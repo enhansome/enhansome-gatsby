@@ -19,7 +19,7 @@
             "open_issues": 457,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55937,
+            "stars": 55936,
             "topics": [
               "blog",
               "compiler",
@@ -563,8 +563,8 @@
                 "id": 63402186,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T04:09:47Z",
-                "open_issues": 75,
+                "last_commit": "2026-10-19T21:45:26Z",
+                "open_issues": 74,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 193,
@@ -743,8 +743,8 @@
                 "id": 101899949,
                 "language": "MDX",
                 "license": null,
-                "last_commit": "2026-10-19T06:04:15Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-19T19:53:49Z",
+                "open_issues": 6,
                 "owner": "abhith",
                 "repo": "abhith.net",
                 "stars": 64,
@@ -1140,7 +1140,7 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T20:56:37Z",
+                "last_commit": "2026-10-19T20:19:05Z",
                 "open_issues": 9,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
@@ -1372,6 +1372,33 @@
             },
             {
               "node_type": "item",
+              "title": "Walter Teng",
+              "description": "davzoku/personal-website-v1",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "👨🏻‍💻🏠 my digital home (2021 -  present)",
+                "homepage": "https://walterteng.com",
+                "id": 377209655,
+                "language": "MDX",
+                "license": "MIT",
+                "last_commit": "2025-04-24T16:38:40Z",
+                "open_issues": 14,
+                "owner": "davzoku",
+                "repo": "personal-website-v1",
+                "stars": 5,
+                "topics": [
+                  "digital-garden",
+                  "gatsby",
+                  "personal-website",
+                  "react",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-28T17:37:15.295Z"
+            },
+            {
+              "node_type": "item",
               "title": "Kapadiya.net",
               "description": "vikas5914/vikas5914.github.io",
               "children": [],
@@ -1414,33 +1441,6 @@
                 "repo": "blog",
                 "stars": 4,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T17:37:15.295Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Walter Teng",
-              "description": "davzoku/personal-website-v1",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "👨🏻‍💻🏠 my digital home (2021 -  present)",
-                "homepage": "https://walterteng.com",
-                "id": 377209655,
-                "language": "MDX",
-                "license": "MIT",
-                "last_commit": "2025-04-24T16:38:40Z",
-                "open_issues": 14,
-                "owner": "davzoku",
-                "repo": "personal-website-v1",
-                "stars": 4,
-                "topics": [
-                  "digital-garden",
-                  "gatsby",
-                  "personal-website",
-                  "react",
-                  "typescript"
-                ]
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
             },
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T11:04:29.701Z",
+    "last_updated": "2026-10-20T10:17:52.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
