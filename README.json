@@ -19,7 +19,7 @@
             "open_issues": 458,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55934,
+            "stars": 55931,
             "topics": [
               "blog",
               "compiler",
@@ -453,7 +453,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 116,
+                "open_issues": 117,
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8237,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:23:48.569Z",
+    "last_updated": "2026-10-24T09:43:29.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
