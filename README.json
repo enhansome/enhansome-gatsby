@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-20T11:36:56Z",
-            "open_issues": 459,
+            "open_issues": 460,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55921,
+            "stars": 55920,
             "topics": [
               "blog",
               "compiler",
@@ -456,7 +456,7 @@
                 "open_issues": 117,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8236,
+                "stars": 8237,
                 "topics": [
                   "framework",
                   "graphene",
@@ -1140,8 +1140,8 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T07:18:32Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-31T22:39:18Z",
+                "open_issues": 11,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
                 "stars": 13,
@@ -1293,7 +1293,7 @@
                 "id": 8911503,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-10-30T15:08:24Z",
+                "last_commit": "2026-10-31T22:20:39Z",
                 "open_issues": 11,
                 "owner": "britt",
                 "repo": "britt.github.com",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:03:25.116Z",
+    "last_updated": "2026-11-01T11:57:14.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
