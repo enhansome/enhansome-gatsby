@@ -19,7 +19,7 @@
             "open_issues": 460,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55920,
+            "stars": 55919,
             "topics": [
               "blog",
               "compiler",
@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1876,
+                "stars": 1875,
                 "topics": [
                   "gatsby",
                   "gatsby-theme",
@@ -102,8 +102,8 @@
                 "id": 181062037,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T00:41:48Z",
-                "open_issues": 61,
+                "last_commit": "2026-11-01T19:45:48Z",
+                "open_issues": 62,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
                 "stars": 357,
@@ -483,7 +483,7 @@
                 "open_issues": 53,
                 "owner": "KyleAMathews",
                 "repo": "react-headroom",
-                "stars": 1871,
+                "stars": 1870,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -743,8 +743,8 @@
                 "id": 101899949,
                 "language": "MDX",
                 "license": null,
-                "last_commit": "2026-10-29T12:02:26Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-02T06:04:44Z",
+                "open_issues": 6,
                 "owner": "abhith",
                 "repo": "abhith.net",
                 "stars": 64,
@@ -1140,7 +1140,7 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T22:39:18Z",
+                "last_commit": "2026-11-01T23:56:25Z",
                 "open_issues": 11,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:57:14.711Z",
+    "last_updated": "2026-11-02T13:44:31.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
