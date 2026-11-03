@@ -102,8 +102,8 @@
                 "id": 181062037,
                 "language": "MDX",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T19:45:48Z",
-                "open_issues": 62,
+                "last_commit": "2026-11-02T20:53:56Z",
+                "open_issues": 61,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
                 "stars": 357,
@@ -1140,7 +1140,7 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T23:56:25Z",
+                "last_commit": "2026-11-02T23:48:21Z",
                 "open_issues": 11,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:44:31.203Z",
+    "last_updated": "2026-11-03T12:56:22.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
