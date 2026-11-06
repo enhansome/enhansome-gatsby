@@ -1073,7 +1073,7 @@
                 "open_issues": 0,
                 "owner": "coriolan-ui",
                 "repo": "coriolan-ui.github.io",
-                "stars": 19,
+                "stars": 20,
                 "topics": [
                   "coriolan-ui"
                 ]
@@ -1293,7 +1293,7 @@
                 "id": 8911503,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-10-31T22:20:39Z",
+                "last_commit": "2026-11-05T22:50:35Z",
                 "open_issues": 11,
                 "owner": "britt",
                 "repo": "britt.github.com",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T13:24:53.150Z",
+    "last_updated": "2026-11-06T13:08:11.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",

@@ -135,7 +135,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [k-create.com](https://k-create.com) ([source](https://github.com/kristofferh/kristoffer) ⭐ 25 | 🐛 8 | 🌐 TypeScript | 📅 2025-06-02)
 * [Sacha Greif](http://sachagreif.com/) ([source](https://github.com/SachaG/sg2017) ⭐ 24 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-04)
 * [vii.campjs.com](http://vii.campjs.com/) ([source](https://github.com/campjs/campjs-vii) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2016-06-13)
-* [Coriolan UI - sass mixins pack](https://coriolan-ui.github.io/) ([source](https://github.com/coriolan-ui/coriolan-ui.github.io) ⭐ 19 | 🐛 0 | 🌐 CSS | 📅 2018-12-23)
+* [Coriolan UI - sass mixins pack](https://coriolan-ui.github.io/) ([source](https://github.com/coriolan-ui/coriolan-ui.github.io) ⭐ 20 | 🐛 0 | 🌐 CSS | 📅 2018-12-23)
 * [likescoffee.com](https://likescoffee.com/) ([source](https://github.com/pamo/pamo.github.io/tree/development) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2025-08-17)
 * [Crypto Christmas](https://crypto.christmas/) ([source](https://github.com/rileyjshaw/crypto.christmas) ⭐ 13 | 🐛 5 | 🌐 JavaScript | 📅 2024-01-03)
 * [Vojtech Ruzicka's Programming Blog](https://www.vojtechruzicka.com/) ([source](https://github.com/vojtechruz/vojtechruzicka-blog) ⭐ 13 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-04)
@@ -145,7 +145,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Megan Keesee](https://megankeesee.com) ([source](https://github.com/MeganKeesee/personal-site) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2017-04-25)
 * [Völlig Ohne](http://volligohne.com/) ([source](https://github.com/voellig-ohne/voellig-ohne-website) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2018-05-11)
 * [iamdustan.com](http://iamdustan.com/) ([source](https://github.com/iamdustan/iamdustan.github.io) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2024-04-14)
-* [brittcrawford.com](http://brittcrawford.com) ([source](https://github.com/britt/britt.github.com/tree/gatsby) ⭐ 5 | 🐛 11 | 🌐 HTML | 📅 2026-10-31)
+* [brittcrawford.com](http://brittcrawford.com) ([source](https://github.com/britt/britt.github.com/tree/gatsby) ⭐ 5 | 🐛 11 | 🌐 HTML | 📅 2026-11-05)
 * [Geographer](https://geographer.su) ([source](https://github.com/MenaraSolutions/geographer-docs) ⭐ 5 | 🐛 4 | 🌐 CSS | 📅 2023-06-09)
 * [krzysztofzuraw.com](https://krzysztofzuraw.com) ([source](https://github.com/krzysztofzuraw/blog) ⚠️ Archived)
 * [Resturant Journeys](https://www.restaurantjourneys.com) ([source](https://github.com/realfresh/restaurantjourneys) ⭐ 5 | 🐛 0 | 🌐 CSS | 📅 2019-03-27)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
