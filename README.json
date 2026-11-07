@@ -19,7 +19,7 @@
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55919,
+            "stars": 55918,
             "topics": [
               "blog",
               "compiler",
@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1875,
+                "stars": 1874,
                 "topics": [
                   "gatsby",
                   "gatsby-theme",
@@ -456,7 +456,7 @@
                 "open_issues": 117,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8237,
+                "stars": 8238,
                 "topics": [
                   "framework",
                   "graphene",
@@ -563,8 +563,8 @@
                 "id": 63402186,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T22:14:15Z",
-                "open_issues": 76,
+                "last_commit": "2026-11-07T07:11:25Z",
+                "open_issues": 74,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 192,
@@ -854,7 +854,7 @@
                 "id": 68964932,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-19T05:34:30Z",
+                "last_commit": "2026-11-07T06:13:32Z",
                 "open_issues": 0,
                 "owner": "f0rr0",
                 "repo": "f0rr0.dev",
@@ -1456,7 +1456,7 @@
                 "id": 266415869,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-04T01:14:31Z",
+                "last_commit": "2026-11-07T01:38:22Z",
                 "open_issues": 3,
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:08:11.006Z",
+    "last_updated": "2026-11-07T11:51:48.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
