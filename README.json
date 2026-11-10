@@ -15,8 +15,8 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T11:36:56Z",
-            "open_issues": 463,
+            "last_commit": "2026-11-09T16:47:00Z",
+            "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
             "stars": 55916,
@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "gatsby",
                   "gatsby-theme",
@@ -106,7 +106,7 @@
                 "open_issues": 52,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
-                "stars": 357,
+                "stars": 358,
                 "topics": [
                   "carbon",
                   "gatsby",
@@ -563,8 +563,8 @@
                 "id": 63402186,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T07:11:25Z",
-                "open_issues": 74,
+                "last_commit": "2026-11-10T02:46:12Z",
+                "open_issues": 73,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 193,
@@ -697,7 +697,7 @@
                 "open_issues": 4,
                 "owner": "Syncano",
                 "repo": "website",
-                "stars": 91,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -1293,7 +1293,7 @@
                 "id": 8911503,
                 "language": "HTML",
                 "license": null,
-                "last_commit": "2026-11-05T22:50:35Z",
+                "last_commit": "2026-11-09T22:03:35Z",
                 "open_issues": 11,
                 "owner": "britt",
                 "repo": "britt.github.com",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:11:23.274Z",
+    "last_updated": "2026-11-10T13:40:56.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
