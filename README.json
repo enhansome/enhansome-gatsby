@@ -456,7 +456,7 @@
                 "open_issues": 117,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8239,
+                "stars": 8240,
                 "topics": [
                   "framework",
                   "graphene",
@@ -933,7 +933,7 @@
                 "open_issues": 13,
                 "owner": "hello-nyxo",
                 "repo": "nyxo-website",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "aws-amplify",
                   "gatsby",
@@ -1140,8 +1140,8 @@
                 "id": 122234816,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T21:30:45Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-11T12:10:33Z",
+                "open_issues": 10,
                 "owner": "vojtechruz",
                 "repo": "vojtechruzicka-blog",
                 "stars": 13,
@@ -1456,7 +1456,7 @@
                 "id": 266415869,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-08T14:47:57Z",
+                "last_commit": "2026-11-11T01:05:29Z",
                 "open_issues": 4,
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:40:56.326Z",
+    "last_updated": "2026-11-11T12:53:06.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
