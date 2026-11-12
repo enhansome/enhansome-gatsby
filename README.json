@@ -15,11 +15,11 @@
             "id": 36040894,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T16:47:00Z",
+            "last_commit": "2026-11-11T13:06:01Z",
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55916,
+            "stars": 55914,
             "topics": [
               "blog",
               "compiler",
@@ -106,7 +106,7 @@
                 "open_issues": 52,
                 "owner": "carbon-design-system",
                 "repo": "gatsby-theme-carbon",
-                "stars": 358,
+                "stars": 359,
                 "topics": [
                   "carbon",
                   "gatsby",
@@ -453,7 +453,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "graphql-python",
                 "repo": "graphene",
                 "stars": 8240,
@@ -483,7 +483,7 @@
                 "open_issues": 53,
                 "owner": "KyleAMathews",
                 "repo": "react-headroom",
-                "stars": 1870,
+                "stars": 1869,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -504,7 +504,7 @@
                 "open_issues": 26,
                 "owner": "iamdustan",
                 "repo": "react-hardware",
-                "stars": 805,
+                "stars": 804,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T23:01:40Z",
+                "last_commit": "2026-11-11T17:04:56Z",
                 "open_issues": 50,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -743,8 +743,8 @@
                 "id": 101899949,
                 "language": "MDX",
                 "license": null,
-                "last_commit": "2026-11-09T06:06:44Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-12T04:40:07Z",
+                "open_issues": 7,
                 "owner": "abhith",
                 "repo": "abhith.net",
                 "stars": 64,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:53:06.456Z",
+    "last_updated": "2026-11-12T13:55:43.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
@@ -1617,7 +1617,7 @@
       "open_issues": 5,
       "owner": "prayash",
       "repo": "awesome-gatsby",
-      "stars": 998,
+      "stars": 997,
       "topics": [
         "awesome-list",
         "gatsby",
