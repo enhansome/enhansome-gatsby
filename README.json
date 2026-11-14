@@ -19,7 +19,7 @@
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55914,
+            "stars": 55915,
             "topics": [
               "blog",
               "compiler",
@@ -96,7 +96,7 @@
               "description": "carbon-design-system/gatsby-theme-carbon",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A Carbon inspired Gatsby theme",
                 "homepage": "https://gatsby.carbondesignsystem.com/",
                 "id": 181062037,
@@ -504,7 +504,7 @@
                 "open_issues": 26,
                 "owner": "iamdustan",
                 "repo": "react-hardware",
-                "stars": 804,
+                "stars": 803,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-11T17:04:56Z",
+                "last_commit": "2026-11-13T23:07:33Z",
                 "open_issues": 50,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -1456,8 +1456,8 @@
                 "id": 266415869,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-11T01:05:29Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-14T01:43:29Z",
+                "open_issues": 5,
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
                 "stars": 3,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T13:20:13.694Z",
+    "last_updated": "2026-11-14T12:24:27.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
