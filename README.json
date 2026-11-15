@@ -19,7 +19,7 @@
             "open_issues": 461,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55915,
+            "stars": 55916,
             "topics": [
               "blog",
               "compiler",
@@ -1456,8 +1456,8 @@
                 "id": 266415869,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-14T01:43:29Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-14T18:51:36Z",
+                "open_issues": 6,
                 "owner": "peterpme",
                 "repo": "peterpme.github.io",
                 "stars": 3,
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:24:27.274Z",
+    "last_updated": "2026-11-15T12:54:23.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
