@@ -19,7 +19,7 @@
             "open_issues": 463,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55915,
+            "stars": 55914,
             "topics": [
               "blog",
               "compiler",
@@ -456,7 +456,7 @@
                 "open_issues": 117,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8240,
+                "stars": 8241,
                 "topics": [
                   "framework",
                   "graphene",
@@ -564,10 +564,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T13:39:26Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
-                "stars": 193,
+                "stars": 194,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -933,7 +933,7 @@
                 "open_issues": 13,
                 "owner": "hello-nyxo",
                 "repo": "nyxo-website",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "aws-amplify",
                   "gatsby",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T14:26:18.103Z",
+    "last_updated": "2026-11-19T14:37:30.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
