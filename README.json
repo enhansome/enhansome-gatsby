@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-17T00:03:53Z",
-            "open_issues": 463,
+            "open_issues": 462,
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55914,
+            "stars": 55912,
             "topics": [
               "blog",
               "compiler",
@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1875,
+                "stars": 1874,
                 "topics": [
                   "gatsby",
                   "gatsby-theme",
@@ -237,7 +237,7 @@
                 "open_issues": 34,
                 "owner": "johno",
                 "repo": "gatsby-theme-documentation",
-                "stars": 133,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:37:15.295Z"
@@ -453,10 +453,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-09-04T15:43:44Z",
-                "open_issues": 117,
+                "open_issues": 118,
                 "owner": "graphql-python",
                 "repo": "graphene",
-                "stars": 8241,
+                "stars": 8239,
                 "topics": [
                   "framework",
                   "graphene",
@@ -479,7 +479,7 @@
                 "id": 31336818,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-12T23:02:07Z",
+                "last_commit": "2026-11-19T23:58:05Z",
                 "open_issues": 25,
                 "owner": "KyleAMathews",
                 "repo": "react-headroom",
@@ -563,8 +563,8 @@
                 "id": 63402186,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T13:39:26Z",
-                "open_issues": 75,
+                "last_commit": "2026-11-20T03:49:02Z",
+                "open_issues": 76,
                 "owner": "ethereumclassic",
                 "repo": "ethereumclassic.github.io",
                 "stars": 194,
@@ -605,7 +605,7 @@
                 "id": 162599694,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T22:16:07Z",
+                "last_commit": "2026-11-20T03:08:56Z",
                 "open_issues": 50,
                 "owner": "duyet",
                 "repo": "pricetrack",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:37:30.283Z",
+    "last_updated": "2026-11-20T14:15:19.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
