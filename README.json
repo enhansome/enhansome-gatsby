@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "LekoArts",
                 "repo": "gatsby-themes",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "gatsby",
                   "gatsby-theme",
@@ -542,7 +542,7 @@
                 "id": 73315177,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T19:02:35Z",
+                "last_commit": "2026-11-22T08:12:52Z",
                 "open_issues": 24,
                 "owner": "reactiflux",
                 "repo": "reactiflux.com",
@@ -1605,7 +1605,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:38:39.331Z",
+    "last_updated": "2026-11-22T13:31:12.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚛️ 📄 🚀 Awesome list for the mighty Gatsby.js, a blazing fast React static site generator.",
