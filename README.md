@@ -73,7 +73,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 
 ### Inspiration
 
-* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,914 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20
+* [Official Gatsby Showcase](https://github.com/gatsbyjs/gatsby#showcase) ⭐ 55,915 | 🐛 462 | 🌐 JavaScript | 📅 2026-11-20
 * [Taking Gatsby for a spin](https://dev.to/ardennl/taking-gatsby-for-a-spin-4je)
 * [Why I created my blog with Gatsby and Contentful](https://www.gatsbyjs.org/blog/2017-11-09-why-i-created-my-blog-with-gatsby-and-contentful/)
 * [On moving to Gatsby.js from Pelican](https://krzysztofzuraw.com/blog/2017/moving-blog-to-gatsby.html)
@@ -122,7 +122,7 @@ Carefully curated list of awesome [Gatsby](https://www.gatsbyjs.org/) resources.
 * [Fabian Schultz](https://fabianschultz.com) ([source](https://github.com/fabe/site) ⭐ 117 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-19)
 * [syncano.io](https://www.syncano.io) ([source](https://github.com/Syncano/syncano.com) ⭐ 89 | 🐛 4 | 🌐 JavaScript | 📅 2020-10-01)
 * [2016 JavaScript Rising Stars](https://risingstars2016.js.org/) ([source](https://github.com/michaelrambeau/risingstars2016) ⭐ 74 | 🐛 2 | 🌐 HTML | 📅 2017-04-23)
-* [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net) ⭐ 64 | 🐛 5 | 🌐 MDX | 📅 2026-11-16)
+* [abhith.net](https://www.abhith.net) ([source](https://github.com/Abhith/abhith.net) ⭐ 64 | 🐛 5 | 🌐 MDX | 📅 2026-11-23)
 * [oliverbenns.com](http://oliverbenns.com?utm_source=github.com) ([source](https://github.com/oliverbenns/oliverbenns.com) ⭐ 51 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09)
 * [gregberge.com](https://gregberge.com) ([source](https://github.com/gregberge/gregberge.com) ⭐ 47 | 🐛 0 | 🌐 MDX | 📅 2023-11-09)
 * [anvilabs.co](https://anvilabs.co/?utm_source=github.com) ([source](https://github.com/anvilabs/anvilabs.co) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2018-04-21)
@@ -190,4 +190,4 @@ To the extent possible under law, [Prayash Thapa](http://prayash.io) has waived 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
